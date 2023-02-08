@@ -14,6 +14,7 @@ body {
     -webkit-box-shadow: 0px 1px 4px 0px rgba(0, 0, 0, 0.2);
     box-shadow: 0px 1px 4px 0px rgba(0, 0, 0, 0.2);
     border-radius: 1px;
+    width: 460px;
 }
 
 .input {
@@ -45,7 +46,7 @@ body {
     border-radius: 1px;
     width: 80px;
     text-align: center;
-    padding: 10px;
+    padding: 9px;
     margin: 20px 4px 10px 0;
     cursor: pointer;
     background-color: #ddd;
@@ -97,7 +98,7 @@ div.equal {
     border-radius: 1px;
     width: 17%;
     text-align: center;
-    padding: 127px 10px;
+    padding: 123px 6px;
     margin: 10px 6px 10px 0;
     vertical-align: top;
     cursor: pointer;
